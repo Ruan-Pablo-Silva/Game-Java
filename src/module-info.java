@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ruan
+ *
+ */
+module JAVAGAME {
+}

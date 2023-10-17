@@ -1,0 +1,6 @@
+package main;
+
+public class GameWindow {
+	private JFrame jframe;
+
+}
